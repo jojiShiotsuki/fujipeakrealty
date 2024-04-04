@@ -1,0 +1,14 @@
+wp-config.php
+wp-content/cache/
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+wp-content/debug.log
+Thumbs.db
+*.sql
+local-config.php
+.vscode/
+wp-content/ai1wm-backups/fujipeakrealty-local-20240403-091348-2mksy6.wpress
+wp-content/ai1wm-backups/fujipeakrealty-local-20240404-060725-u0qblm.wpress
