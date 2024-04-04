@@ -1,6 +1,7 @@
 # Fujipeak Realty WordPress Website
 
 Welcome to the Fujipeak Realty WordPress website repository!
+![Demo](fujipeakrealty.gif)
 
 ## Installation
 
